@@ -27,4 +27,5 @@ resource "google_compute_instance" "instance-20241121-140719" {
   # Optionally add other configurations, such as metadata, labels, etc.
 }
 ```
+- when importing an instance from Google Cloud to Terraform import and resource blocks are required for the referencing instance
 - name, machine_type, zone, boot_dis, network_interface are required when importing instance from GCP to terraform
