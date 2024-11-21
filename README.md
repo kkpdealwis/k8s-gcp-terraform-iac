@@ -1,4 +1,4 @@
-## Importing an Instance to Terraform in GCP
+## Importing an Instance in GCP using Terraform
 
 ```
 import {
