@@ -1,5 +1,4 @@
 gcp_svc_key = "../service-account-key.json"
 gcp_project = "trim-field-426016-a8"
 gcp_region = "us-cental-1"
-access_token = "ya29.a0AeDClZDNUAFgXAi-WNhKS-0AatuhR7SsY2TQpF_9DborXHd7X5UB5KHZcHRvpuusiElIwFiYzpjo33xSK935mN3N5bqaMc1GiuPbnEzHupVMPy9e0JmgNsqzDV_oAlRS7iaS4G2eIjf84OyZyMgwKRnteEa3l996cwamHN5IeoOPmWvy2vbPpiiaWFwpqcB-ubbszXRaHOa47LntOqweKo-lwNlNFVLb4IRU752ECle3tMaZujtF9UXeAQjkhjhC3TN5c0Kmw_0tZ2FUokMVLJed_9RmILkuZanALQHag5U-tnyzX6nIS9X89o6Vt8vqYjHgSsiGf6EZpLVlkvx38nM9w5xEy84Bo6NR6KKDisYS7vTp-MjJcIMpIawH0g797nLV70HL1F0gTyV7bbCJvrPhnAsEfhut2AaCgYKAV4SARISFQHGX2MiNW4iMux4qlTuJPI--XGdEQ0425"
-
+access_token = "<-access-token->"
