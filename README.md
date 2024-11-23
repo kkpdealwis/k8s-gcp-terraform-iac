@@ -38,4 +38,8 @@ startup-script: /bin/bash: /tmp/metadata-scripts188395429/startup-script: /bin/b
 #without using #!/bin/bash at the top give below error
 startup-script: /tmp/metadata-scripts3282388603/startup-script: line 1: syntax error near unexpected token `$'{\r''
 ```
+- using the below journalctl command metadata_startup_script execution status can be viewed
+```
+sudo journalctl -u google-startup-scripts.service
+```
 
