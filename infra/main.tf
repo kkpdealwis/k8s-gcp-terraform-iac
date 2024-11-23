@@ -98,7 +98,8 @@ EOF
 }
 
 resource "google_compute_instance" "kube-worker-node" {
-  name         = "kube-worker-node"
+  count        = var.vm_count
+  name         = "kube-worker-node-${count.index + 1}"
   machine_type = "e2-medium"
   zone         = "us-central1-a"
 
